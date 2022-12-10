@@ -3,9 +3,6 @@
 # Tracking
 0.0.0.0 heapanalytics.com
 
-# Disallow Samsung TV to ping home
-0.0.0.0 otn.samsungcloudcdn.com
-
 # Plex phone home for remote access
 0.0.0.0 pubsub.plex.tv
 0.0.0.0 analytics.plex.tv
