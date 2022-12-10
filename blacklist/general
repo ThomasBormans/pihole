@@ -1,4 +1,8 @@
-# Custom hosts to block regarding the TV #
+# Custom hosts to block #
 
-# Disallow Samsung TV to ping home
-0.0.0.0 otn.samsungcloudcdn.com
+# Tracking
+0.0.0.0 heapanalytics.com
+
+# Plex phone home for remote access
+0.0.0.0 pubsub.plex.tv
+0.0.0.0 analytics.plex.tv
