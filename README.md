@@ -2,8 +2,8 @@
 
 ## Test page for ad blocking ##
 
-https://blockads.fivefilters.org/
-https://d3ward.github.io/toolz/adblock.html
+* https://blockads.fivefilters.org/
+* https://d3ward.github.io/toolz/adblock.html
 
 ## Block lists ##
 
