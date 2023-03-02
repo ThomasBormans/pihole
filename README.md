@@ -13,6 +13,7 @@ Websites where many lists can be found
 * https://github.com/blocklistproject/Lists
 * https://firebog.net/
 * https://github.com/thomasbnt/raspihostblock
+* https://oisd.nl
 
 ### Used block lists ###
 
