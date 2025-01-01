@@ -35,3 +35,7 @@
 
 # Youtube
 0.0.0.0 ads.youtube.com
+
+# https://d3ward.github.io/toolz/adblock
+0.0.0.0 claritybt.freshmarketer.com
+0.0.0.0 fwtracks.freshmarketer.com
